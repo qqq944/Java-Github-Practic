@@ -1,0 +1,11 @@
+# Java 编译文件
+*.class
+
+# Maven 构建产物
+target/
+
+# IntelliJ IDEA 配置
+.idea/
+
+# VS Code 配置
+.vscode/
